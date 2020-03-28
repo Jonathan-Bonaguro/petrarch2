@@ -1,0 +1,25 @@
+INFO 2020-03-28 00:15:26,030: Running.
+INFO 2020-03-28 00:15:26,058: Getting today's unparsed stories from db 'event_scrape', collection 'stories'
+INFO 2020-03-28 00:15:26,058: Querying for all unparsed stories added within the last day
+INFO 2020-03-28 00:15:26,079: Returning 0 total stories.
+INFO 2020-03-28 00:15:26,083: Setting up CoreNLP.
+INFO 2020-03-28 00:19:17,933: Running.
+INFO 2020-03-28 00:19:17,944: Getting today's unparsed stories from db 'event_scrape', collection 'dw_test'
+INFO 2020-03-28 00:19:17,944: Querying for all unparsed stories added within the last day
+INFO 2020-03-28 00:19:17,958: Returning 790 total stories.
+INFO 2020-03-28 00:19:17,965: Setting up CoreNLP.
+INFO 2020-03-28 00:21:03,071: Running.
+INFO 2020-03-28 00:21:03,081: Getting today's unparsed stories from db 'event_scrape', collection 'dw_test'
+INFO 2020-03-28 00:21:03,081: Querying for all unparsed stories added within the last day
+INFO 2020-03-28 00:21:03,083: Returning 790 total stories.
+INFO 2020-03-28 00:21:03,086: Setting up CoreNLP.
+INFO 2020-03-28 00:23:45,626: Running.
+INFO 2020-03-28 00:23:45,658: Getting today's unparsed stories from db 'event_scrape', collection 'dw_test'
+INFO 2020-03-28 00:23:45,658: Querying for all unparsed stories added within the last day
+INFO 2020-03-28 00:23:45,660: Returning 790 total stories.
+INFO 2020-03-28 00:23:45,662: Setting up CoreNLP.
+INFO 2020-03-28 00:26:36,997: Running.
+INFO 2020-03-28 00:26:37,006: Getting today's unparsed stories from db 'event_scrape', collection 'dw_test'
+INFO 2020-03-28 00:26:37,006: Querying for all unparsed stories added within the last day
+INFO 2020-03-28 00:26:37,010: Returning 790 total stories.
+INFO 2020-03-28 00:26:37,011: Setting up CoreNLP.
